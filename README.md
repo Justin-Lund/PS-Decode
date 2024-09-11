@@ -34,7 +34,21 @@ De-obfuscation techniques are separated as the order of techniques applied may n
 
 More de-obfuscation techniques to be added to soon
 
+
 &nbsp;
+
+
+## Example:
+
+### Before:
+![Before Example](./.img/before.png)
+
+### After:
+![After Example](./.img/after.png)
+
+
+&nbsp;
+
 
 ## External Reference Links:
 
