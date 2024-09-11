@@ -16,9 +16,12 @@ s) Save code
 
 Option 0 is used to check if deobfuscation techniques were successful.
 
-De-obfuscation techniques are separated as the order of techniques applied may need to be changed depending on the code.
+De-obfuscation techniques are separated, since the order of deobfuscation techniques applied may need to be changed, depending on the code.
 
 &nbsp;
+
+More deobfuscation techniques to be added to _soon™_
+
 
 ## Reference: Powershell Obfuscation Techniques
 
@@ -31,8 +34,6 @@ De-obfuscation techniques are separated as the order of techniques applied may n
 | Call Operator | somestring | **&(somestring)** | Converts a string into a command operation |
 | Whitespace | somestring | **'some' &nbsp;+'str'+&nbsp; &nbsp; 'ing'** | Whitespace is irrelevant in some operations, so adding it just makes reading harder.
 | Ascii Char Assigns | '\\' | **[cHar]92** | This replaces characters with their ascii codes |
-
-More de-obfuscation techniques to be added to soon
 
 
 &nbsp;
